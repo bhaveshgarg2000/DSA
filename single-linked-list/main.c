@@ -27,7 +27,7 @@ int main()
 {
         int choice;
         while(1){
-                printf("\n*-*-*-*-*-*-*-*-*-*-*-*-**MENU\*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-**n");
+                printf("\n*-*-*-*-*-*-*-*-*-*-*-*-**MENU*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-**n");
                 printf("\n1.Create\n");
                 printf("\n 2.Display\n");
                 printf("\n 3.Insert at the beginning\n");
